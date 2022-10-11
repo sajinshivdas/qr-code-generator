@@ -71,7 +71,7 @@ if content:
 #----------------------------------------------------------------------------------------------------------------------------
 # Links
 st.write('')
-st.markdown(f"<p style='text-align: center; color: black;'>To decode the contents of a QR Code, visit this <a href='https://qrcode-decoder.herokuapp.com/'>QR Code Decoder.</a></p>.", unsafe_allow_html=True)
+st.markdown(f"<p style='text-align: center; color: black;'>To decode the contents of a QR Code, visit this <a href=''>QR Code Decoder.</a></p>.", unsafe_allow_html=True)
 #---------------------------------------------------------------------------------------------------------------------------
 
 
@@ -104,7 +104,7 @@ text-align: center;
 }
 </style>
 <div class="footer">
-<p>Made in Streamlit with ❤️ by <a href='https://github.com/mayursrt'>Mayur</a>.
+<p>Made in Streamlit by <a href='https://sajinshivdas.com/cybersecurity/infosec-tools-and-utilities/'>Sajin Shivdas</a>.
 
 </p>
 </div>
